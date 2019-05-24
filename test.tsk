@@ -1,0 +1,33 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Achmer" id="0" comment="EDXA 123.05" altitude="53.0">
+      <Location longitude="7.9133333" latitude="52.3772222"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Pinnow" id="0" comment="EDBP 122.5" altitude="43.0">
+      <Location longitude="11.5627778" latitude="53.6158333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Dessau" id="0" comment="EDAD 118.175" altitude="56.0">
+      <Location longitude="12.1844444" latitude="51.8316667"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Achmer" id="0" comment="EDXA 123.05" altitude="53.0">
+      <Location longitude="7.9133333" latitude="52.3772222"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Achmer" id="0" comment="EDXA 123.05" altitude="53.0">
+      <Location longitude="7.9133333" latitude="52.3772222"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
